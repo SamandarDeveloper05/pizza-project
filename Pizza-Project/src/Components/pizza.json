@@ -1,0 +1,103 @@
+[
+    {
+     "id":"1",
+     "title":"Salsa",
+     "desc":"Joʻja, salsa sousi, mayin motsarella pishlogʻi, xalapenyo, bulgʻor qalampiri va pomidorlar",
+     "url":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F2c814f26-9d3c-4b66-ae54-003fe4db2cb4.jpg&w=384&q=75",
+     "price":75000,
+     "quantity":"0"
+    },
+    {
+        "id":"2",
+        "title":"Gurme",
+        "desc":"Pizza sous, zaytun, pepperoni, qo'ziqorin, oregano",
+        "url":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fd020eb98-5c57-43d6-ba90-969907dc8186.jpg&w=384&q=75",
+        "price":75000,
+        "quantity":"0"
+       },
+       {
+        "id":"3",
+        "title":"Super Miks",
+        "desc":"«Super Miks» pitsasi 1 ta pitsada 4 xil sevimli pitsalaringiz birlashmasi 😋 Hammasini va birdan tatib ko‘rishni xush ko‘ruvchilar uchun nihoyatda mos keladi",
+        "url":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F94844930-5c66-4c12-a670-93b048169dbe.jpg&w=384&q=75",
+        "price":80000,
+        "quantity":"0"
+       },
+       {
+        "id":"4",
+        "title":"Chiken karri",
+        "desc":"«Mol goʻshtili rulet va tovuq filesi motsarella pishlogʻi, ananas va Karri sousi bilan",
+        "url":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F45bd4064-2430-4250-899d-d6f834d36c30.jpg&w=384&q=75",
+        "price":75000,
+        "quantity":"0"
+       },
+       {
+        "id":"5",
+        "title":"Pishloqli joʻja",
+        "desc":"«Yumshoq tovuq filesi, motsarella pishlogʻi, pomidor va pishloqli sous",
+        "url":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F17126e05-7876-45a6-be19-e6d0af0328a4.jpg&w=384&q=75",
+        "price":70000,
+        "quantity":"0"
+       },
+       {
+        "id":"6",
+        "title":"Dabl pepperoni",
+        "desc":"Ikki hissa pepperoni motsarella pishlogʻi va tomat sousi bilan",
+        "url":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F17126e05-7876-45a6-be19-e6d0af0328a4.jpg&w=384&q=75",
+        "price":65000,
+        "quantity":"0"
+       },
+       {
+        "id":"7",
+        "title":"Joʻjacha Ranch",
+        "desc":"Yumshoq tovuq filesi, motsarella pishlogʻi va pomidor Ranch sousi bilan",
+        "url":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F0a6ad3e4-3cac-40d4-a278-13416f28b5fe.jpg&w=384&q=75",
+        "price":70000,
+        "quantity":"0"
+       },
+       {
+        "id":"8",
+        "title":"Halapeno",
+        "desc":"Kurka filesi, yumshoq mol goʻshti, piyoz, pomidor, `Halapeno` achchiq qalampiri, motsarella pishlogʻi va barbekyu sous",
+        "url":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F84e3a554-551a-45f6-9ac1-9c7870aa6f14.jpg&w=384&q=75",
+        "price":75000,
+        "quantity":"0"
+       },
+       {
+        "id":"9",
+        "title":"Pepperoni",
+        "desc":"Pepperoni, motsarella pishlogʻi va tomat sousi",
+        "url":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F601282db-7274-43e4-ac74-e8987d53dd6e.jpg&w=384&q=75",
+        "price":70000,
+        "quantity":"0"
+       },
+       {
+        "id":"10",
+        "title":"Meksikancha",
+        "desc":"Mol goʻshti, pepperoni kolbasasi, mayin motsarella pishlogʻi, xalapenyo, barbekyu sousi, bulgʻor qalampiri, piyoz va pomidorlar",
+        "url":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F07b2af79-95e0-48ae-8962-3b29fdfcb6d4.jpg&w=384&q=75",
+        "price":50000 ,
+        "quantity":"0"
+       },   
+       {
+        "id":"11",
+        "title":"Margarita",
+        "desc":"Motsarella pishlogʻi, pomidor va oregano tomat sousi bilan",
+        "url":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fd356188d-b9b4-4c06-9251-4429a17adfd5.jpg&w=384&q=75",
+        "price":38000 ,
+        "quantity":"0"
+       },
+       {
+        "id":"12",
+        "title":"Barbekyu tovuq",
+        "desc":"Tovuq filesi, piyoz, choʻziluvchan motsarella pishlogʻi barbekyu va tomat sousi bilan",
+        "url":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F18dcffd2-c192-4811-8698-68c8a51cdb34.jpg&w=384&q=75",
+        "price":45000 ,
+        "quantity":"0"
+       }
+
+
+
+       
+  
+]
